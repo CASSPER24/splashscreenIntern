@@ -7,4 +7,6 @@
     android:background="@color/purple_200"
     tools:context=".Splashscreen">
 
+
+
 </androidx.constraintlayout.widget.ConstraintLayout>
